@@ -65,6 +65,6 @@ The dataset used is **CICIDS 2017**, which contains a variety of network traffic
 - Expand the dataset to include other types of attacks for better generalization.
 
 
-## Remerciment
+## Acknowledgments
 Thank you for taking the time to read this README. I hope you find my work satisfactory.
 #### Djibril DAHOUB 
